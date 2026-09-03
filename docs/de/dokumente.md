@@ -1,0 +1,35 @@
+# Zeugnisse, Nachweise & Zertifikate
+
+Hier finden Sie die Nachweise zu meinem beruflichen Werdegang, akademischen Abschluss und Sprachkenntnissen zum Download.
+
+---
+
+## 1. Arbeitszeugnis / Referenzschreiben (ORS)
+
+Offizielles Referenzschreiben des Generaldirektors der **AO «Online Reservation System» (ORS)** über die achtjährige Zusammenarbeit (2017–2025).
+
+::: info Auszug aus der Leistungs- und Führungsbeurteilung:
+*„Herr Lediankin zeichnete sich jederzeit durch herausragende technische Fachkompetenz, ausgeprägte Problemlösungskompetenz und ein sehr hohes Maß an Verantwortungsbewusstsein aus [...] Er erledigte alle ihm übertragenen Aufgaben stets mit größter Sorgfalt, Eigeninitiative und **stets zu unserer vollsten Zufriedenheit**.“*
+:::
+
+📄 **[Referenzschreiben herunterladen (PDF, 2 Seiten mit russischem Original)](/Referenzschreiben_Sergei_Lediankin_ORS.pdf)**
+
+---
+
+## 2. Hochschulabschluss (Diplom) & anabin-Anerkennung
+
+Staatliches Diplom über die Hochschulbildung der **Staatlichen Technischen Universität Jaroslawl (YSTU)**.
+
+- **Akademischer Grad:** Ingenieur (Abschluss nach regulärem 5-jährigem Vollzeitstudium, 1994–1999).
+- **Einstufung in Deutschland:** Dem deutschen universitären **Diplom-Ingenieur (Dipl.-Ing. Univ. / Master-Ebene)** gleichgestellt.
+- **anabin-Datenbank (KMK / ZAB):** Die Institution besitzt den **Status H+** (vollwertig anerkannte staatliche Universität in Deutschland).
+
+📄 **[Diplomübersetzung (Titelseite) herunterladen (PDF)](/Diplom_Uebersetzung_Sergei_Lediankin_DE.pdf)**
+
+---
+
+## 3. Sprachzertifikat Deutsch (DTZ B1)
+
+- **Zertifikat:** Deutsch-Test für Zuwanderer (**DTZ**), Niveau **B1** (BAMF / telc).
+- Integrationskurs erfolgreich abgeschlossen.
+- Nachweis liegt den Bewerbungsunterlagen bei und kann auf Anfrage digital eingesehen werden.

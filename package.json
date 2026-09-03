@@ -1,0 +1,14 @@
+{
+  "name": "sirgeika-resume",
+  "version": "1.0.0",
+  "description": "Personal resume and portfolio website of Sergei Lediankin (VitePress)",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
