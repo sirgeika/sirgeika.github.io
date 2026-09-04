@@ -1,3 +1,8 @@
+---
+title: "Lebenslauf (CV)"
+description: "Detaillierter Lebenslauf von Sergei Lediankin: Beruflicher Werdegang bei ORS und lingvochat.com, Kernkompetenzen in Vue 3, Node.js und Cloud."
+---
+
 # Lebenslauf (Curriculum Vitae)
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;">

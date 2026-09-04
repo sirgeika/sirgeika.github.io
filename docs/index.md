@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Frontend & Full-Stack Developer"
+description: "Portfolio & Resume of Sergei Lediankin, Senior Frontend & Full-Stack Developer (Vue 3, TypeScript, Node.js) based in Stuttgart, Germany."
 
 hero:
   name: "Sergei Lediankin"

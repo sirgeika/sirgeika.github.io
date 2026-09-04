@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Frontend & Full-Stack Developer (Vue 3 / Node.js)"
+description: "9+ years of experience delivering mission-critical web applications and AI solutions. Based in Stuttgart, Germany with unrestricted work permit."
 
 hero:
   name: "Sergei Lediankin"

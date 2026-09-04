@@ -1,3 +1,8 @@
+---
+title: "Credentials & References"
+description: "Official recommendation letter from ORS, university diploma recognized in anabin (H+), and German language certificates of Sergei Lediankin."
+---
+
 # Credentials & References
 
 Official supporting documents, diploma translations, and letters of recommendation available for download.

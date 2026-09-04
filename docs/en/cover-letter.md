@@ -1,3 +1,8 @@
+---
+title: "About Me & Motivation"
+description: "Why I can strengthen your engineering team: 9+ years experience in mission-critical aviation B2B web applications, frontend architecture, and AI integration."
+---
+
 # About Me & Motivation
 
 ### Why I Can Strengthen Your Team

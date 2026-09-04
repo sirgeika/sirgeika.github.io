@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Frontend & Full-Stack Entwickler (Vue 3 / Node.js)"
+description: "9+ Jahre Erfahrung in Web-Apps (Aviation DCS/TWT) und KI-Systemen. Wohnhaft in Stuttgart mit uneingeschränkter Arbeitserlaubnis."
 
 hero:
   name: "Sergei Lediankin"

@@ -1,3 +1,8 @@
+---
+title: "Über mich & Motivation"
+description: "Warum ich Ihr Team verstärken kann: 9+ Jahre Erfahrung in komplexen B2B-Enterprise-Anwendungen, Teamkoordination und KI-Integration."
+---
+
 # Über mich & Motivation
 
 ### Warum ich Ihr Team verstärken kann

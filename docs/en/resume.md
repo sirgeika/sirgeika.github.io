@@ -1,3 +1,8 @@
+---
+title: "Resume (CV)"
+description: "Professional resume of Sergei Lediankin: Senior Frontend & Full-Stack Developer with 9+ years experience in Vue 3, TypeScript, Node.js, and AI systems."
+---
+
 # Resume (Curriculum Vitae)
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;">

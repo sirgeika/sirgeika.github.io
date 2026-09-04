@@ -1,3 +1,8 @@
+---
+title: "Zeugnisse & Diplom"
+description: "Arbeitszeugnis der AO ORS, Hochschuldiplom mit anabin H+ Anerkennung und DTZ B1-Zertifikat von Sergei Lediankin zum Download."
+---
+
 # Zeugnisse, Nachweise & Zertifikate
 
 Hier finden Sie die Nachweise zu meinem beruflichen Werdegang, akademischen Abschluss und Sprachkenntnissen zum Download.

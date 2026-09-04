@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sirgeika.github.io/sitemap.xml
+
