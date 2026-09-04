@@ -5,6 +5,9 @@ hero:
   name: "Sergei Lediankin"
   text: "Frontend & Full-Stack Developer (Vue 3 / Node.js)"
   tagline: "9+ years of experience delivering mission-critical web applications (Aviation DCS/TWT) and AI solutions. Based in Stuttgart, Germany."
+  image:
+    src: /img/photo.jpg
+    alt: Sergei Lediankin
   actions:
     - theme: brand
       text: "View Resume"
@@ -17,11 +20,17 @@ hero:
       link: /en/credentials
 
 features:
-  - title: Vue 3 & Modern Frontend
+  - icon:
+      src: /img/vue.svg
+    title: Vue 3 & Modern Frontend
     details: 9+ years building complex enterprise clients (Vue 3 Composition API, Pinia, Vuetify, Vite, performance and build tuning).
-  - title: Full-Stack & AI Integration
+  - icon:
+      src: /img/ai.svg
+    title: Full-Stack & AI Integration
     details: Node.js, Firebase, and LLM orchestration. Founder of the AI language platform lingvochat.com (audio pipeline, SRS logic).
-  - title: Eligible to Work in Germany
+  - icon:
+      src: /img/work.svg
+    title: Eligible to Work in Germany
     details: Valid German Residence Permit (Aufenthaltstitel, unrestricted work permit), DTZ German B1 certificate.
 ---
 

@@ -63,12 +63,6 @@ function copyEmail(e) {
         </span>
       </button>
     </template>
-    <template v-else>
-      <!-- Anti-bot SSR fallback: no plain email or mailto in static HTML -->
-      <span class="email-obfuscated">
-        <span>{{ user }}</span><span class="email-at"> [at] </span><span>{{ domain }}</span>
-      </span>
-    </template>
   </span>
 </template>
 

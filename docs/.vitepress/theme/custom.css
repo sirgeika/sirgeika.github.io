@@ -12,3 +12,18 @@
   font-size: 1.5rem !important;
   color: var(--vp-c-brand) !important;
 } */
+
+.VPHomeHero .image-src {
+  max-width: 280px;
+  max-height: 340px;
+  border-radius: 24px;
+  object-fit: cover;
+  box-shadow: 0 20px 45px -15px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--vp-c-brand-soft);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* .VPHomeHero .image-src:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
+} */

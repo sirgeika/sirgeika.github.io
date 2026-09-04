@@ -18,7 +18,7 @@
   </defs>
 
   <!-- Фон-плашка -->
-  <rect width="64" height="64" rx="14" fill="#f3f4f6"/>
+  <rect width="64" height="64" rx="14" fill="#f3f4f6" stroke="#aaa" stroke-width="1"/>
 
   <!-- Монограмма SL -->
   <text x="31" y="32" class="monogram">SL</text>

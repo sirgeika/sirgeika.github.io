@@ -19,9 +19,12 @@ Formal reference letter issued by the CEO of **JSC «Online Reservation System»
 Official State Higher Education Diploma issued by **Yaroslavl State Technical University (YSTU)**.
 
 - **Academic Degree:** Engineer (5-year full-time university curriculum, 1994–1999 / **M.Sc. / Dipl.-Ing. Equivalent**).
+- **Academic Degree:** Engineer (5-year full-time university curriculum, 1994–1999 / **M.Sc. / Dipl.-Ing. Equivalent / anabin Class A5**).
 - **German anabin Database (KMK / ZAB):** Yaroslavl State Technical University is rated **Status H+** (fully recognized state higher education institution).
 
-📄 **[Download Diploma Translation (Title Page) (PDF)](/docs/Diploma_Translation_Sergei_Lediankin_EN.pdf)**
+📄 **[Download Diploma Translation (Title Page) (PDF)](/docs/Diploma_Translation_Sergei_Lediankin_EN.pdf)**  
+🏛️ **[Download anabin Institution Recognition Statement (YSTU, Status H+) (PDF)](/docs/universitet.pdf)**  
+📜 **[Download anabin Degree Equivalence Statement (Class A5 / Master-Level) (PDF)](/docs/expluatacia-transporta.pdf)**
 
 
 ## 3. German Language Certification (DTZ B1)

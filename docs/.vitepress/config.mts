@@ -78,6 +78,7 @@ export default defineConfig({
   },
 
   themeConfig: {
+    logo: '/img/logo.svg',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/sirgeika' },
       { icon: 'linkedin', link: 'https://linkedin.com/in/lediankin' }

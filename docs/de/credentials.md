@@ -22,9 +22,12 @@ Staatliches Diplom über die Hochschulbildung der **Staatlichen Technischen Univ
 
 - **Akademischer Grad:** Ingenieur (Abschluss nach regulärem 5-jährigem Vollzeitstudium, 1994–1999).
 - **Einstufung in Deutschland:** Dem deutschen universitären **Diplom-Ingenieur (Dipl.-Ing. Univ. / Master-Ebene)** gleichgestellt.
+- **Einstufung in Deutschland:** Dem deutschen universitären **Diplom-Ingenieur (Dipl.-Ing. Univ. / Master-Ebene / anabin-Klasse A5)** gleichgestellt.
 - **anabin-Datenbank (KMK / ZAB):** Die Institution besitzt den **Status H+** (vollwertig anerkannte staatliche Universität in Deutschland).
 
-📄 **[Diplomübersetzung (Titelseite) herunterladen (PDF)](/docs/Diplom_Uebersetzung_Sergei_Lediankin_DE.pdf)**
+📄 **[Diplomübersetzung (Titelseite) herunterladen (PDF)](/docs/Diplom_Uebersetzung_Sergei_Lediankin_DE.pdf)**  
+🏛️ **[anabin-Auszug zur Hochschule YSTU (Status H+) (PDF)](/docs/universitet.pdf)**  
+📜 **[anabin-Auszug zum Studienabschluss (Klasse A5 / Master-Ebene) (PDF)](/docs/expluatacia-transporta.pdf)**
 
 ---
 

@@ -44,7 +44,7 @@ Praxiserprobter Softwareentwickler mit über **9 Jahren Erfahrung** in der moder
 ## Beruflicher Werdegang
 
 ### Gründer & Full-Stack Entwickler
-**lingvochat.com** *(Eigenes KI-Projekt / Startup)*  
+**[lingvochat.com](https://lingvochat.com)** *(Eigenes KI-Projekt / Startup)*  
 *11/2024 – Heute*
 
 Entwicklung einer KI-gestützten Sprachlernplattform mit Fokus auf kontextuelles Audiotraining und intelligente Wiederholungszyklen (SRS).
@@ -53,7 +53,7 @@ Entwicklung einer KI-gestützten Sprachlernplattform mit Fokus auf kontextuelles
 - Kosteneffiziente Einbindung von LLM-Modellen für automatisierte Grammatikerklärungen und adaptive Dialogsimulationen.
 
 ### Senior Frontend-Entwickler / Sub-Teamleiter
-**LogicEditor / AO «ORS» (Online Reservation System)**  
+**[LogicEditor](https://logiceditor.com) / [AO «ORS» (Online Reservation System)](https://ors-aero.ru/en)**  
 *11/2021 – 07/2025*
 
 Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesellschaften und Flughäfen.
@@ -65,7 +65,7 @@ Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesel
 - Enge Zusammenarbeit mit Backend-Teams und Fachanalysten zur Erfüllung strenger IATA-Vorgaben.
 
 ### Frontend-Entwickler
-**LogicEditor / AO «ORS»**  
+**[LogicEditor](https://logiceditor.com) / [AO «ORS»](https://ors-aero.ru/en)**  
 *03/2017 – 10/2021*
 
 - Entwicklung clientseitiger Komponenten für Flughafen-Passagierabfertigungssysteme und Self-Check-in-Kioske.
@@ -73,7 +73,7 @@ Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesel
 - Optimierung der Webpack/Vite-Build-Pipelines und Reduzierung von Ladezeiten.
 
 ### JavaScript / Lua Entwickler
-**LogicEditor**  
+**[LogicEditor](https://logiceditor.com)**  
 *10/2016 – 02/2017*
 
 - Entwicklung von Skripten und Automatisierungsmodulen für browserbasierte CAD-Systeme (Schaltplan- und Kabelbaumeditor).
@@ -90,9 +90,9 @@ Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesel
 
 **Staatliche Technische Universität Jaroslawl (YSTU)**  
 *1994 – 1999*  
-- **Abschluss:** Diplom-Ingenieur (**Dipl.-Ing. Univ. / Master-Äquivalent**, 5-jähriges Vollzeitstudium)
+- **Abschluss:** Diplom-Ingenieur (**Dipl.-Ing. Univ. / Master-Äquivalent**, 5-jähriges Vollzeitstudium, **[anabin-Klasse A5](/docs/expluatacia-transporta.pdf)**)
 - **Fachrichtung:** Kraftfahrzeuge und Fuhrparkwirtschaft
-- **Status in Deutschland:** Hochschule in anabin mit **Status H+** bewertet.
+- **Status in Deutschland:** Hochschule in anabin mit **[Status H+](/docs/universitet.pdf)** bewertet ([anabin-Hochschule PDF](/docs/universitet.pdf) | [anabin-Abschluss PDF](/docs/expluatacia-transporta.pdf)).
 
 ---
 

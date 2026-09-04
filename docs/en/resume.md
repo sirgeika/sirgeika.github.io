@@ -44,7 +44,7 @@ Experienced Software Engineer with **9+ years** specializing in modern web devel
 ## Professional Experience
 
 ### Founder & Full-Stack Developer
-**lingvochat.com** *(Self-funded Startup / AI Platform)*  
+**[lingvochat.com](https://lingvochat.com)** *(Self-funded Startup / AI Platform)*  
 *11/2024 – Present*
 
 AI-powered language learning platform focusing on contextual audio training and intelligent repetition.
@@ -53,7 +53,7 @@ AI-powered language learning platform focusing on contextual audio training and 
 - Integrated cost-efficient LLM services for grammar clarification and interactive conversational simulations.
 
 ### Senior Frontend Engineer / Sub-Team Lead
-**LogicEditor / JSC «ORS» (Online Reservation System)**  
+**[LogicEditor](https://logiceditor.com) / [JSC «ORS» (Online Reservation System)](https://ors-aero.ru/en)**  
 *11/2021 – 07/2025*
 
 Mission-critical enterprise software for airlines, airports, and travel agencies.
@@ -65,7 +65,7 @@ Mission-critical enterprise software for airlines, airports, and travel agencies
 - Collaborated closely with backend engineers and business analysts to meet strict high-availability criteria and IATA standards.
 
 ### Frontend Developer
-**LogicEditor / JSC «ORS»**  
+**[LogicEditor](https://logiceditor.com) / [JSC «ORS» (Online Reservation System)](https://ors-aero.ru/en)**  
 *03/2017 – 10/2021*
 
 - Built client-side web applications for airport ground operations and passenger self-service check-in kiosks.
@@ -73,7 +73,7 @@ Mission-critical enterprise software for airlines, airports, and travel agencies
 - Streamlined frontend build tooling (Webpack/Vite) to reduce bundle sizes.
 
 ### JavaScript / Lua Developer
-**LogicEditor**  
+**[LogicEditor](https://logiceditor.com)**  
 *10/2016 – 02/2017*
 
 - Developed automation scripts and core logic for browser-based CAD solutions (electrical circuits and cable harness design).
@@ -88,11 +88,11 @@ Mission-critical enterprise software for airlines, airports, and travel agencies
 
 ## Education
 
-**Yaroslavl State Technical University (YSTU)**  
+**[Yaroslavl State Technical University (YSTU)](https://ystu.ru/information/langs/en-do-you-speak/)**  
 *1994 – 1999*  
-- **Conferred Qualification:** Engineer (**Specialist Diploma / M.Sc. Equivalent**, 5-year full-time curriculum)
+- **Conferred Qualification:** Engineer (**Specialist Diploma / M.Sc. Equivalent**, 5-year full-time curriculum, **[anabin Class A5](/docs/expluatacia-transporta.pdf)**)
 - **Major:** Automobiles and Automotive Fleet Operations
-- **Recognition:** University holds **H+ status** in Germany's official anabin database (fully recognized).
+- **Recognition:** University holds **[H+ status](/docs/universitet.pdf)** in Germany's official anabin database ([anabin Institution PDF](/docs/universitet.pdf) | [anabin Degree PDF](/docs/expluatacia-transporta.pdf)).
 
 ---
 
