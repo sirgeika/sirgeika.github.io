@@ -22,13 +22,11 @@
 - **Profile:** [LinkedIn](https://linkedin.com/in/lediankin) | [GitHub](https://github.com/sirgeika)
 - **Aufenthaltsstatus:** Gültiger Aufenthaltstitel (**Arbeitserlaubnis uneingeschränkt vorhanden**)
 
----
 
 ## Kurzprofil
 
 Praxiserprobter Softwareentwickler mit über **9 Jahren Erfahrung** in der modernen Webentwicklung mit Schwerpunkt auf **Vue.js**, **Node.js** und **Cloud-Architekturen**. Langjährige Erfolge bei der Entwicklung hochverfügbarer, geschäftskritischer B2B-Enterprise-Lösungen für die Luftfahrtindustrie (Fluggastabfertigung DCS, Buchungsterminals TWT) sowie in KI-gestützten Systemen. Fundierte Praxis in Code Reviews, Performance-Optimierung und der fachlichen Aufgabenkoordination in Entwicklerteams (2–5 Entwickler).
 
----
 
 ## Kernkompetenzen
 
@@ -39,7 +37,6 @@ Praxiserprobter Softwareentwickler mit über **9 Jahren Erfahrung** in der moder
 | **KI & LLM** | LLM-Integration, Genkit, Prompt Engineering, Konversations-UI, RAG |
 | **Methoden & Tools** | Git, GitLab, Agile / Scrum, Code Reviews, Release Management, CI/CD |
 
----
 
 ## Beruflicher Werdegang
 
@@ -84,8 +81,6 @@ Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesel
 
 - Entwicklung und Wartung von ERP- und Unternehmensautomatisierungslösungen auf Basis der Plattform 1C:Enterprise.
 
----
-
 ## Ausbildung
 
 **Staatliche Technische Universität Jaroslawl (YSTU)**  
@@ -93,8 +88,6 @@ Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesel
 - **Abschluss:** Diplom-Ingenieur (**Dipl.-Ing. Univ. / Master-Äquivalent**, 5-jähriges Vollzeitstudium, **[anabin-Klasse A5](/docs/expluatacia-transporta.pdf)**)
 - **Fachrichtung:** Kraftfahrzeuge und Fuhrparkwirtschaft
 - **Status in Deutschland:** Hochschule in anabin mit **[Status H+](/docs/universitet.pdf)** bewertet ([anabin-Hochschule PDF](/docs/universitet.pdf) | [anabin-Abschluss PDF](/docs/expluatacia-transporta.pdf)).
-
----
 
 ## Sprachkenntnisse
 

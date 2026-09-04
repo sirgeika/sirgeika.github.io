@@ -2,7 +2,6 @@
 
 Hier finden Sie die Nachweise zu meinem beruflichen Werdegang, akademischen Abschluss und Sprachkenntnissen zum Download.
 
----
 
 ## 1. Arbeitszeugnis / Referenzschreiben (ORS)
 
@@ -14,7 +13,6 @@ Offizielles Referenzschreiben des Generaldirektors der **AO «Online Reservation
 
 📄 **[Referenzschreiben herunterladen (PDF, 2 Seiten mit russischem Original)](/docs/recommendation-letter-de-ru.pdf)**
 
----
 
 ## 2. Hochschulabschluss (Diplom) & anabin-Anerkennung
 
@@ -29,7 +27,6 @@ Staatliches Diplom über die Hochschulbildung der **Staatlichen Technischen Univ
 🏛️ **[anabin-Auszug zur Hochschule YSTU (Status H+) (PDF)](/docs/universitet.pdf)**  
 📜 **[anabin-Auszug zum Studienabschluss (Klasse A5 / Master-Ebene) (PDF)](/docs/expluatacia-transporta.pdf)**
 
----
 
 ## 3. Sprachzertifikat Deutsch (DTZ B1)
 

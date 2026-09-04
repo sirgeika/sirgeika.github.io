@@ -22,13 +22,11 @@
 - **Profiles:** [LinkedIn](https://linkedin.com/in/lediankin) | [GitHub](https://github.com/sirgeika)
 - **Work Authorization:** Valid German Residence Permit (**Aufenthaltstitel, eligible to work without restrictions**)
 
----
 
 ## Professional Summary
 
 Experienced Software Engineer with **9+ years** specializing in modern web development (**Vue.js**, **Node.js**, **Cloud/Firebase**). Proven track record delivering mission-critical B2B enterprise software for the aviation industry (Departure Control Systems DCS, airline booking terminals TWT) and AI-driven web platforms. Strong hands-on background in client-side performance optimization, code reviews, and coordinating small developer teams (2–5 engineers).
 
----
 
 ## Technical Skills
 
@@ -38,8 +36,6 @@ Experienced Software Engineer with **9+ years** specializing in modern web devel
 | **Backend & Cloud** | Node.js, Firebase (Firestore, Cloud Storage), REST APIs, JSON, NoSQL |
 | **AI & LLM** | LLM Integration, Genkit, Prompt Engineering, Conversational UI, RAG |
 | **Practices & Tools** | Git, GitLab, Agile / Scrum, Code Reviews, Release Management, CI/CD |
-
----
 
 ## Professional Experience
 
@@ -84,8 +80,6 @@ Mission-critical enterprise software for airlines, airports, and travel agencies
 
 - Developed automated enterprise workflows and ERP solutions using the 1C:Enterprise platform.
 
----
-
 ## Education
 
 **[Yaroslavl State Technical University (YSTU)](https://ystu.ru/information/langs/en-do-you-speak/)**  
@@ -93,8 +87,6 @@ Mission-critical enterprise software for airlines, airports, and travel agencies
 - **Conferred Qualification:** Engineer (**Specialist Diploma / M.Sc. Equivalent**, 5-year full-time curriculum, **[anabin Class A5](/docs/expluatacia-transporta.pdf)**)
 - **Major:** Automobiles and Automotive Fleet Operations
 - **Recognition:** University holds **[H+ status](/docs/universitet.pdf)** in Germany's official anabin database ([anabin Institution PDF](/docs/universitet.pdf) | [anabin Degree PDF](/docs/expluatacia-transporta.pdf)).
-
----
 
 ## Languages
 
