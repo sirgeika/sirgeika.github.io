@@ -17,6 +17,14 @@ export default defineConfig({
     ],
     ['link', { rel: 'icon', href: '/favicon.svg' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    [
+      'script',
+      {
+        defer: '',
+        src: 'https://cloud.umami.is/script.js',
+        'data-website-id': 'edd5d96f-1e3f-4d40-a53d-e548cf956a8f'
+      }
+    ]
   ],
   locales: {
     root: {
