@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Lobster";
+        src: url("/fonts/lobster-v32-latin/lobster-v32-latin-regular.woff2") format("woff2");
+        font-weight: normal;
+        font-style: normal;
+      }
+      .monogram {
+        font-family: "Lobster", cursive, sans-serif;
+        font-size: 38px;
+        fill: #42b883;
+        dominant-baseline: central;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <!-- Фон-плашка -->
+  <rect width="64" height="64" rx="14" fill="#18181b"/>
+
+  <!-- Монограмма SL -->
+  <text x="31" y="32" class="monogram">SL</text>
+</svg>

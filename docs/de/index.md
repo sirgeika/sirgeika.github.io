@@ -8,13 +8,13 @@ hero:
   actions:
     - theme: brand
       text: "Lebenslauf ansehen"
-      link: /de/lebenslauf
+      link: /de/resume
     - theme: alt
       text: "CV als PDF herunterladen"
-      link: /Lebenslauf_Sergei_Lediankin_DE.pdf
+      link: /docs/Lebenslauf_Sergei_Lediankin_DE.pdf
     - theme: alt
       text: "Zeugnisse & Diplom"
-      link: /de/dokumente
+      link: /de/credentials
 
 features:
   - title: Vue 3 & Moderne Frontend-Architektur
@@ -24,3 +24,4 @@ features:
   - title: Sofort einsatzbereit in Stuttgart
     details: Gültiger Aufenthaltstitel (uneingeschränkte Arbeitserlaubnis vorhanden), DTZ B1-Zertifikat (BAMF/telc).
 ---
+

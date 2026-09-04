@@ -1,0 +1,14 @@
+/* lobster-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/lobster-v32-latin/lobster-v32-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* 
+.VPNavBarTitle .title {
+  font-family: "Lobster";
+  font-size: 1.5rem !important;
+  color: var(--vp-c-brand) !important;
+} */

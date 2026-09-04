@@ -11,7 +11,7 @@ hero:
       link: /en/resume
     - theme: alt
       text: "Download CV (PDF)"
-      link: /Resume_Sergei_Lediankin_EN.pdf
+      link: /docs/Resume_Sergei_Lediankin_EN.pdf
     - theme: alt
       text: "Diplomas & References"
       link: /en/credentials
@@ -24,3 +24,4 @@ features:
   - title: Eligible to Work in Germany
     details: Valid German Residence Permit (Aufenthaltstitel, unrestricted work permit), DTZ German B1 certificate.
 ---
+

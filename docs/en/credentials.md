@@ -2,7 +2,6 @@
 
 Official supporting documents, diploma translations, and letters of recommendation available for download.
 
----
 
 ## 1. Letter of Recommendation (JSC «ORS»)
 
@@ -12,9 +11,8 @@ Formal reference letter issued by the CEO of **JSC «Online Reservation System»
 *„Mr. Lediankin consistently demonstrated outstanding technical expertise, strong problem-solving skills, and a high degree of responsibility [...] He fulfilled all assigned tasks with utmost care, initiative, and **always to our fullest satisfaction**.“*
 :::
 
-📄 **[Download Reference Letter (PDF, 2 pages with original Russian scan)](/Referenzschreiben_Sergei_Lediankin_ORS.pdf)**
+📄 **[Download Reference Letter (PDF, 2 pages with original Russian scan)](/docs/recommendation-letter-en-ru.pdf)**
 
----
 
 ## 2. Higher Education Diploma & anabin Recognition
 
@@ -23,12 +21,13 @@ Official State Higher Education Diploma issued by **Yaroslavl State Technical Un
 - **Academic Degree:** Engineer (5-year full-time university curriculum, 1994–1999 / **M.Sc. / Dipl.-Ing. Equivalent**).
 - **German anabin Database (KMK / ZAB):** Yaroslavl State Technical University is rated **Status H+** (fully recognized state higher education institution).
 
-📄 **[Download Diploma Translation (Title Page) (PDF)](/Diploma_Translation_Sergei_Lediankin_EN.pdf)**
+📄 **[Download Diploma Translation (Title Page) (PDF)](/docs/Diploma_Translation_Sergei_Lediankin_EN.pdf)**
 
----
 
 ## 3. German Language Certification (DTZ B1)
 
 - **Certificate:** German Test for Immigrants (**DTZ**), CEFR Level **B1** (certified by BAMF / telc).
 - Integration course successfully completed.
-- Full certificate copy available upon request.
+
+📄 <a name="dtz-certificate" href="/docs/DTZ-Zertifikat_Lediankin.pdf" target="_blank">Download DTZ Certificate (PDF)</a>
+

@@ -3,9 +3,19 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Sergei Lediankin",
   description: "Frontend & Full-Stack Developer (Vue 3 / Node.js)",
-  base: process.env.VITEPRESS_BASE || '/',
+  base: '/',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    [
+      'link',
+      {
+        rel: 'preload',
+        as: 'font',
+        type: 'font/woff2',
+        href: '/fonts/lobster-v32-latin/lobster-v32-latin-regular.woff2',
+        crossorigin: 'anonymous'
+      }
+    ],
+    ['link', { rel: 'icon', href: '/favicon.svg' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ],
   locales: {
@@ -15,12 +25,12 @@ export default defineConfig({
       link: '/de/',
       themeConfig: {
         nav: [
-          { text: 'Lebenslauf', link: '/de/lebenslauf' },
-          { text: 'Über mich / Anschreiben', link: '/de/anschreiben' },
-          { text: 'Zeugnisse & Diplom', link: '/de/dokumente' },
+          { text: 'Lebenslauf', link: '/de/resume' },
+          { text: 'Über mich / Anschreiben', link: '/de/cover-letter' },
+          { text: 'Zeugnisse & Diplom', link: '/de/credentials' },
           { 
             text: 'PDF Download', 
-            link: '/Lebenslauf_Sergei_Lediankin_DE.pdf',
+            link: '/docs/Lebenslauf_Sergei_Lediankin_DE.pdf',
             target: '_blank' 
           }
         ],
@@ -29,9 +39,9 @@ export default defineConfig({
             text: 'Bewerbungsprofil',
             items: [
               { text: 'Übersicht', link: '/de/' },
-              { text: 'Lebenslauf (CV)', link: '/de/lebenslauf' },
-              { text: 'Motivationsschreiben', link: '/de/anschreiben' },
-              { text: 'Qualifikationen & Nachweise', link: '/de/dokumente' }
+              { text: 'Lebenslauf (CV)', link: '/de/resume' },
+              { text: 'Motivationsschreiben', link: '/de/cover-letter' },
+              { text: 'Qualifikationen & Nachweise', link: '/de/credentials' }
             ]
           }
         ]
@@ -48,7 +58,7 @@ export default defineConfig({
           { text: 'Credentials', link: '/en/credentials' },
           { 
             text: 'Download CV (PDF)', 
-            link: '/Resume_Sergei_Lediankin_EN.pdf',
+            link: '/docs/Resume_Sergei_Lediankin_EN.pdf',
             target: '_blank' 
           }
         ],
@@ -73,7 +83,7 @@ export default defineConfig({
       { icon: 'linkedin', link: 'https://linkedin.com/in/lediankin' }
     ],
     footer: {
-      message: 'Sergei Lediankin • Stuttgart, Germany • sirgeika@gmail.com',
+      message: 'Sergei Lediankin • Stuttgart, Germany',
       copyright: 'Aufenthaltstitel vorhanden (Arbeitserlaubnis uneingeschränkt)'
     },
     search: {
@@ -81,3 +91,4 @@ export default defineConfig({
     }
   }
 })
+

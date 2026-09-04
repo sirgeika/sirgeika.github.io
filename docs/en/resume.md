@@ -1,22 +1,24 @@
 # Resume (Curriculum Vitae)
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;">
-  <a href="/Resume_Sergei_Lediankin_EN.pdf" target="_blank" class="vp-button medium brand" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-brand-1); color: white; font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
+  <a href="/docs/Resume_Sergei_Lediankin_EN.pdf" target="_blank" class="vp-button medium brand" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-brand-1); color: white; font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
     📄 Download CV (PDF)
   </a>
-  <a href="/Referenzschreiben_Sergei_Lediankin_ORS.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
+  <a href="/docs/recommendation-letter-en-ru.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
     📜 Reference Letter (PDF)
   </a>
-  <a href="/Diploma_Translation_Sergei_Lediankin_EN.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
+  <a href="/docs/Diploma_Translation_Sergei_Lediankin_EN.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
     🎓 Diploma Translation (PDF)
+  </a>
+  <a href="/docs/DTZ-Zertifikat_Lediankin.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
+    🇩🇪 DTZ B1 Certificate (PDF)
   </a>
 </div>
 
 ## Personal Information
 
 - **Location:** Stuttgart, Germany
-- **Email:** [sirgeika@gmail.com](mailto:sirgeika@gmail.com)
-- **Phone:** +49 160 3818097
+- **Email:** <EmailContact />
 - **Profiles:** [LinkedIn](https://linkedin.com/in/lediankin) | [GitHub](https://github.com/sirgeika)
 - **Work Authorization:** Valid German Residence Permit (**Aufenthaltstitel, eligible to work without restrictions**)
 
@@ -97,5 +99,6 @@ Mission-critical enterprise software for airlines, airports, and travel agencies
 ## Languages
 
 - **Russian:** Native
-- **German:** **B1 (DTZ Certificate)** – Intermediate, daily conversational and technical context, actively improving.
+- **German:** **B1 ([DTZ Certificate](/docs/DTZ-Zertifikat_Lediankin.pdf))** – Intermediate, daily conversational and technical context, actively improving.
 - **English:** **A2/B1** – Technical documentation, written professional communication.
+

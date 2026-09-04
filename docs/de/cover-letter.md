@@ -25,4 +25,5 @@ Ich suche eine langfristige Position als **Frontend Developer (Vue.js)** oder **
 ---
 
 *Sergei Lediankin • Stuttgart*  
-[sirgeika@gmail.com](mailto:sirgeika@gmail.com) • [+49 160 3818097](tel:+491603818097) • [LinkedIn](https://linkedin.com/in/lediankin)
+<EmailContact /> • [LinkedIn](https://linkedin.com/in/lediankin)
+

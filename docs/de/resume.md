@@ -1,22 +1,24 @@
 # Lebenslauf (Curriculum Vitae)
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;">
-  <a href="/Lebenslauf_Sergei_Lediankin_DE.pdf" target="_blank" class="vp-button medium brand" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-brand-1); color: white; font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
+  <a href="/docs/Lebenslauf_Sergei_Lediankin_DE.pdf" target="_blank" class="vp-button medium brand" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-brand-1); color: white; font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
     📄 Lebenslauf (PDF) herunterladen
   </a>
-  <a href="/Referenzschreiben_Sergei_Lediankin_ORS.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
+  <a href="/docs/recommendation-letter-de-ru.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
     📜 Arbeitszeugnis (PDF)
   </a>
-  <a href="/Diplom_Uebersetzung_Sergei_Lediankin_DE.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
+  <a href="/docs/Diplom_Uebersetzung_Sergei_Lediankin_DE.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
     🎓 Diplom & Übersetzung (PDF)
+  </a>
+  <a href="/docs/DTZ-Zertifikat_Lediankin.pdf" target="_blank" class="vp-button medium alt" style="text-decoration: none; padding: 8px 16px; border-radius: 8px; background: var(--vp-c-default-soft); color: var(--vp-c-text-1); font-weight: 500; display: inline-flex; align-items: center; gap: 6px;">
+    🇩🇪 DTZ B1-Zertifikat (PDF)
   </a>
 </div>
 
 ## Persönliche Daten
 
 - **Wohnort:** Stuttgart, Deutschland
-- **E-Mail:** [sirgeika@gmail.com](mailto:sirgeika@gmail.com)
-- **Telefon:** +49 160 3818097
+- **E-Mail:** <EmailContact />
 - **Profile:** [LinkedIn](https://linkedin.com/in/lediankin) | [GitHub](https://github.com/sirgeika)
 - **Aufenthaltsstatus:** Gültiger Aufenthaltstitel (**Arbeitserlaubnis uneingeschränkt vorhanden**)
 
@@ -97,5 +99,6 @@ Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesel
 ## Sprachkenntnisse
 
 - **Russisch:** Muttersprache
-- **Deutsch:** **B1 (DTZ-Zertifikat vorhanden)** – Gute Kenntnisse im Alltag und im technischen Umfeld, beruflich kontinuierlich ausbaufähig.
+- **Deutsch:** **B1 ([DTZ-Zertifikat vorhanden](/docs/DTZ-Zertifikat_Lediankin.pdf))** – Gute Kenntnisse im Alltag und im technischen Umfeld, beruflich kontinuierlich ausbaufähig.
 - **Englisch:** **A2/B1** – Gute Lesekenntnisse technischer Dokumentationen und schriftliche Kommunikation.
+
