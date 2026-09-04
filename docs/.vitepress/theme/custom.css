@@ -1,26 +1,59 @@
-/* lobster-regular - latin */
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Lobster';
-  font-style: normal;
-  font-weight: 400;
-  src: url('/fonts/lobster-v32-latin/lobster-v32-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+/* Hero Image Mobile & Desktop Layout */
+.VPHero .image {
+  margin: 0 auto 1.5rem !important;
+  order: 1;
 }
-/* 
-.VPNavBarTitle .title {
-  font-family: "Lobster";
-  font-size: 1.5rem !important;
-  color: var(--vp-c-brand) !important;
-} */
+
+.VPHero .image-container {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  transform: none !important;
+}
 
 .VPHomeHero .image-src {
-  max-width: 280px;
-  max-height: 340px;
-  border-radius: 24px;
+  position: relative !important;
+  top: auto !important;
+  left: auto !important;
+  transform: none !important;
+  max-width: 220px;
+  max-height: 270px;
+  border-radius: 20px;
   object-fit: cover;
-  box-shadow: 0 20px 45px -15px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 15px 35px -10px rgba(0, 0, 0, 0.25);
   border: 2px solid var(--vp-c-brand-soft);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+@media (min-width: 960px) {
+  .VPHero .image {
+    order: 2;
+    margin: 0 !important;
+  }
+
+  .VPHero .image-container {
+    width: 100% !important;
+    height: 100% !important;
+    transform: translate(-32px, -32px) !important;
+  }
+
+  .VPHomeHero .image-src {
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    max-width: 280px;
+    max-height: 340px;
+    border-radius: 24px;
+    box-shadow: 0 20px 45px -15px rgba(0, 0, 0, 0.25);
+  }
+
+  .VPHomeHero .image-src:hover {
+    transform: translate(-50%, -54%) !important;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
+  }
 }
 
 /* .VPHomeHero .image-src:hover {
