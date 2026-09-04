@@ -6,7 +6,7 @@ description: "Portfolio & Resume of Sergei Lediankin, Senior Frontend & Full-Sta
 hero:
   name: "Sergei Lediankin"
   text: "Frontend & Full-Stack Developer (Vue 3 / Node.js)"
-  tagline: "9+ Jahre Erfahrung in geschäftskritischen Web-Apps (Aviation DCS/TWT) und KI-Systemen. Wohnhaft in Stuttgart."
+  tagline: "9+ Jahre Erfahrung in Enterprise-Webanwendungen (Aviation DCS/TWT) und KI-Systemen.<br><span class=\"hero-status-badge\"><span class=\"pulse-dot\"></span> <strong>Verfügbar für neue Positionen</strong> • Open to Work (Stuttgart & Remote)</span>"
   image:
     src: /img/photo.jpg
     alt: Sergei Lediankin
@@ -22,15 +22,15 @@ features:
   - icon:
       src: /img/vue.svg
     title: Vue 3 & Moderne Frontend-Architektur
-    details: Mehr als 8 Jahre Praxis in komplexen Enterprise-Web-Clients (Vue 3 Composition API, Pinia, Vuetify, Vite, Performance-Tuning).
+    details: Mehr als 9 Jahre Praxis in komplexen Enterprise-Web-Clients (Vue 3 Composition API, Pinia, Vuetify, Vite, Performance-Tuning).
   - icon:
       src: /img/ai.svg
     title: Full-Stack & KI-Integration
     details: Node.js, Firebase und LLM-Integration. Gründer des KI-Sprachprojekts lingvochat.com.
   - icon:
       src: /img/work.svg
-    title: Standort Stuttgart & Arbeitserlaubnis
-    details: Gültiger Aufenthaltstitel (uneingeschränkte Arbeitserlaubnis vorhanden), DTZ B1-Zertifikat.
+    title: Sofort verfügbar für Festanstellung
+    details: Aktiv auf der Suche nach neuen Herausforderungen in Stuttgart & Remote. Gültiger Aufenthaltstitel (uneingeschränkte Arbeitserlaubnis vorhanden), DTZ B1-Zertifikat.
 ---
 
 <script setup>

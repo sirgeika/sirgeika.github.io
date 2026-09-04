@@ -6,7 +6,7 @@ description: "9+ years of experience delivering mission-critical web application
 hero:
   name: "Sergei Lediankin"
   text: "Frontend & Full-Stack Developer (Vue 3 / Node.js)"
-  tagline: "9+ years of experience delivering mission-critical web applications (Aviation DCS/TWT) and AI solutions. Based in Stuttgart, Germany."
+  tagline: "9+ years of experience delivering mission-critical enterprise web apps and AI systems.<br><span class=\"hero-status-badge\"><span class=\"pulse-dot\"></span> <strong>Open to Opportunities</strong> • Full-time in Stuttgart & Remote</span>"
   image:
     src: /img/photo.jpg
     alt: Sergei Lediankin
@@ -14,6 +14,9 @@ hero:
     - theme: brand
       text: "View Resume"
       link: /en/resume
+    - theme: brand
+      text: "Get in Touch"
+      link: /en/contact
     - theme: alt
       text: "Download CV (PDF)"
       link: /docs/Resume_Sergei_Lediankin_EN.pdf
@@ -32,7 +35,7 @@ features:
     details: Node.js, Firebase, and LLM orchestration. Founder of the AI language platform lingvochat.com (audio pipeline, SRS logic).
   - icon:
       src: /img/work.svg
-    title: Eligible to Work in Germany
-    details: Valid German Residence Permit (Aufenthaltstitel, unrestricted work permit), DTZ German B1 certificate.
+    title: Available for Full-Time Roles
+    details: Actively seeking new career opportunities in Stuttgart & Remote. Unrestricted German work permit (Aufenthaltstitel), DTZ B1 certificate.
 ---
 

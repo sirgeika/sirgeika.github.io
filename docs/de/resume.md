@@ -20,6 +20,10 @@ description: "Detaillierter Lebenslauf von Sergei Lediankin: Beruflicher Werdega
   </a>
 </div>
 
+::: tip 🟢 Status: Verfügbar für neue Positionen
+Aktiv auf der Suche nach einer langfristigen **Festanstellung (Vollzeit)** als **Senior Frontend Developer (Vue.js)** oder **Full-Stack Developer** in **Stuttgart & Umgebung** (vor Ort / hybrid) sowie **deutschlandweit remote**.
+:::
+
 ## Persönliche Daten
 
 - **Wohnort:** Stuttgart, Deutschland

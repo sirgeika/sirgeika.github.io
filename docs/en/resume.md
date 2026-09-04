@@ -20,6 +20,10 @@ description: "Professional resume of Sergei Lediankin: Senior Frontend & Full-St
   </a>
 </div>
 
+::: tip 🟢 Status: Open to Work
+Actively seeking a **full-time permanent role** as a **Senior Frontend Developer (Vue.js)** or **Full-Stack Developer** in **Stuttgart & surrounding area** (on-site / hybrid) or **remote across Germany**.
+:::
+
 ## Personal Information
 
 - **Location:** Stuttgart, Germany
