@@ -23,7 +23,7 @@ description: "Professional resume of Sergei Lediankin: Senior Frontend & Full-St
 ## Personal Information
 
 - **Location:** Stuttgart, Germany
-- **Email:** <EmailContact />
+- **Contact:** <ContactModal button-text="✉️ Send Message" />
 - **Profiles:** [LinkedIn](https://linkedin.com/in/lediankin) | [GitHub](https://github.com/sirgeika)
 - **Work Authorization:** Valid German Residence Permit (**Aufenthaltstitel, eligible to work without restrictions**)
 
@@ -98,4 +98,11 @@ Mission-critical enterprise software for airlines, airports, and travel agencies
 - **Russian:** Native
 - **German:** **B1 ([DTZ Certificate](/docs/DTZ-Zertifikat_Lediankin.pdf))** – Intermediate, daily conversational and technical context, actively improving.
 - **English:** **A2/B1** – Technical documentation, written professional communication.
+
+---
+
+## Get in Touch {#contact}
+
+<ContactForm />
+
 

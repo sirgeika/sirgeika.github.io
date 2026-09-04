@@ -29,6 +29,10 @@ Ich suche eine langfristige Position als **Frontend Developer (Vue.js)** oder **
 
 ---
 
+### Kontakt aufnehmen
+
+<ContactForm />
+
 *Sergei Lediankin • Stuttgart*  
-<EmailContact /> • [LinkedIn](https://linkedin.com/in/lediankin)
+[LinkedIn](https://linkedin.com/in/lediankin) | [GitHub](https://github.com/sirgeika)
 

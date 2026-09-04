@@ -29,6 +29,10 @@ I am seeking a long-term role as a **Frontend Developer (Vue.js)** or **Full-Sta
 
 ---
 
+### Get in Touch
+
+<ContactForm />
+
 *Sergei Lediankin • Stuttgart, Germany*  
-<EmailContact /> • [LinkedIn](https://linkedin.com/in/lediankin)
+[LinkedIn](https://linkedin.com/in/lediankin) | [GitHub](https://github.com/sirgeika)
 

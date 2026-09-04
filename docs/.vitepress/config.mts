@@ -158,6 +158,7 @@ export default defineConfig({
           { text: 'Lebenslauf', link: '/de/resume' },
           { text: 'Über mich / Anschreiben', link: '/de/cover-letter' },
           { text: 'Zeugnisse & Diplom', link: '/de/credentials' },
+          { text: 'Kontakt', link: '/de/contact' },
           { 
             text: 'PDF Download', 
             link: '/docs/Lebenslauf_Sergei_Lediankin_DE.pdf',
@@ -171,7 +172,8 @@ export default defineConfig({
               { text: 'Übersicht', link: '/de/' },
               { text: 'Lebenslauf (CV)', link: '/de/resume' },
               { text: 'Motivationsschreiben', link: '/de/cover-letter' },
-              { text: 'Qualifikationen & Nachweise', link: '/de/credentials' }
+              { text: 'Qualifikationen & Nachweise', link: '/de/credentials' },
+              { text: 'Kontakt', link: '/de/contact' }
             ]
           }
         ]
@@ -186,6 +188,7 @@ export default defineConfig({
           { text: 'Resume', link: '/en/resume' },
           { text: 'Cover Letter', link: '/en/cover-letter' },
           { text: 'Credentials', link: '/en/credentials' },
+          { text: 'Contact', link: '/en/contact' },
           { 
             text: 'Download CV (PDF)', 
             link: '/docs/Resume_Sergei_Lediankin_EN.pdf',
@@ -199,7 +202,8 @@ export default defineConfig({
               { text: 'Overview', link: '/en/' },
               { text: 'Resume (CV)', link: '/en/resume' },
               { text: 'Cover Letter', link: '/en/cover-letter' },
-              { text: 'Diplomas & References', link: '/en/credentials' }
+              { text: 'Diplomas & References', link: '/en/credentials' },
+              { text: 'Contact', link: '/en/contact' }
             ]
           }
         ]

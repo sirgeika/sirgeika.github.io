@@ -23,7 +23,7 @@ description: "Detaillierter Lebenslauf von Sergei Lediankin: Beruflicher Werdega
 ## Persönliche Daten
 
 - **Wohnort:** Stuttgart, Deutschland
-- **E-Mail:** <EmailContact />
+- **Kontakt:** <ContactModal button-text="✉️ Nachricht senden" />
 - **Profile:** [LinkedIn](https://linkedin.com/in/lediankin) | [GitHub](https://github.com/sirgeika)
 - **Aufenthaltsstatus:** Gültiger Aufenthaltstitel (**Arbeitserlaubnis uneingeschränkt vorhanden**)
 
@@ -99,4 +99,11 @@ Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesel
 - **Russisch:** Muttersprache
 - **Deutsch:** **B1 ([DTZ-Zertifikat vorhanden](/docs/DTZ-Zertifikat_Lediankin.pdf))** – Gute Kenntnisse im Alltag und im technischen Umfeld, beruflich kontinuierlich ausbaufähig.
 - **Englisch:** **A2/B1** – Gute Lesekenntnisse technischer Dokumentationen und schriftliche Kommunikation.
+
+---
+
+## Kontakt aufnehmen {#kontakt}
+
+<ContactForm />
+
 
