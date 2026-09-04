@@ -1,6 +1,6 @@
 {
   "name": "sirgeika-resume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal resume and portfolio website of Sergei Lediankin (VitePress)",
   "type": "module",
   "scripts": {

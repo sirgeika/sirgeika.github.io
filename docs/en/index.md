@@ -18,7 +18,7 @@ hero:
 
 features:
   - title: Vue 3 & Modern Frontend
-    details: 8+ years building complex enterprise clients (Vue 3 Composition API, Pinia, Vuetify, Vite, performance and build tuning).
+    details: 9+ years building complex enterprise clients (Vue 3 Composition API, Pinia, Vuetify, Vite, performance and build tuning).
   - title: Full-Stack & AI Integration
     details: Node.js, Firebase, and LLM orchestration. Founder of the AI language platform lingvochat.com (audio pipeline, SRS logic).
   - title: Eligible to Work in Germany
