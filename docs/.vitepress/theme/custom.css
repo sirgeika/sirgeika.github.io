@@ -27,3 +27,18 @@
   transform: translateY(-4px);
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
 } */
+
+.VPHero .container {
+  background-color: var(--vp-c-bg);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, .05) 1px, transparent 1px), linear-gradient(to bottom, rgba(0, 0, 0, .05) 1px, transparent 1px);
+  background-size: 24px 24px;
+  background-repeat: repeat;
+  background-position: 12px 12px;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+}
+
+.dark .VPHero .container {
+  background-color: var(--vp-c-bg);
+  background-image: linear-gradient(to right, rgba(255, 255, 255, .05) 1px, transparent 1px), linear-gradient(to bottom, rgba(255, 255, 255, .05) 1px, transparent 1px);
+}
