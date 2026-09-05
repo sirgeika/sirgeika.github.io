@@ -34,7 +34,7 @@ Aktiv auf der Suche nach einer langfristigen **Festanstellung (Vollzeit)** als *
 
 ## Kurzprofil
 
-Praxiserprobter Softwareentwickler mit über **9 Jahren Erfahrung** in der modernen Webentwicklung mit Schwerpunkt auf **Vue.js**, **Node.js** und **Cloud-Architekturen**. Langjährige Erfolge bei der Entwicklung hochverfügbarer, geschäftskritischer B2B-Enterprise-Lösungen für die Luftfahrtindustrie (Fluggastabfertigung DCS, Buchungsterminals TWT) sowie in KI-gestützten Systemen. Fundierte Praxis in Code Reviews, Performance-Optimierung und der fachlichen Aufgabenkoordination in Entwicklerteams (2–5 Entwickler).
+Praxiserprobter Softwareentwickler mit über **9 Jahren Erfahrung** in der modernen Webentwicklung mit Schwerpunkt auf **Vue.js**, **Node.js** und **Cloud-Architekturen**. **Über 8 Jahre kontinuierliche Betriebszugehörigkeit** bei ORS belegen ausgeprägte Verlässlichkeit, Loyalität und hohes Verantwortungsbewusstsein — bestätigt im offiziellen Arbeitszeugnis mit der Bestnote (*»stets zu unserer vollsten Zufriedenheit«*). Langjährige Erfolge bei der Entwicklung hochverfügbarer, geschäftskritischer B2B-Enterprise-Lösungen für die Luftfahrtindustrie (Fluggastabfertigung DCS, Buchungsterminals TWT) sowie in KI-gestützten Systemen. Fundierte Praxis in Code Reviews, Performance-Optimierung und der fachlichen Aufgabenkoordination in Entwicklerteams (2–5 Entwickler).
 
 
 ## Kernkompetenzen
@@ -60,7 +60,12 @@ Entwicklung einer KI-gestützten Sprachlernplattform mit Fokus auf kontextuelles
 
 ### Senior Frontend-Entwickler / Sub-Teamleiter
 **[LogicEditor](https://logiceditor.com) / [AO «ORS» (Online Reservation System)](https://ors-aero.ru/en)**  
-*11/2021 – 07/2025*
+*11/2021 – 07/2025* *(Zuvor Frontend-Entwickler seit 03/2017 — insgesamt 8+ Jahre kontinuierliche Unternehmenstreue)*
+
+::: info 📜 Auszug aus dem offiziellen Arbeitszeugnis der Geschäftsführung:
+*„Herr Lediankin zeichnete sich jederzeit durch herausragende technische Fachkompetenz, ausgeprägte Problemlösungskompetenz und ein sehr hohes Maß an Verantwortungsbewusstsein aus [...] Er erledigte alle ihm übertragenen Aufgaben stets mit größter Sorgfalt, Eigeninitiative und **stets zu unserer vollsten Zufriedenheit**.“*  
+📄 **[Vollständiges Arbeitszeugnis ansehen (PDF)](/docs/recommendation-letter-de-ru.pdf)**
+:::
 
 Entwicklung unternehmenskritischer Softwaresysteme für internationale Fluggesellschaften und Flughäfen.
 - Fachliche Koordination eines Frontend-Teams von 2–5 Entwicklern (Sprint-Planung, Aufgabenverteilung, Code Reviews, Release-Vorbereitung).

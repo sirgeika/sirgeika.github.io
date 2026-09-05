@@ -6,7 +6,7 @@ description: "Portfolio & Resume of Sergei Lediankin, Senior Frontend & Full-Sta
 hero:
   name: "Sergei Lediankin"
   text: "Frontend & Full-Stack Developer (Vue 3 / Node.js)"
-  tagline: "9+ Jahre Erfahrung in Enterprise-Webanwendungen (Aviation DCS/TWT) und KI-Systemen.<br><span class=\"hero-status-badge\"><span class=\"pulse-dot\"></span> <strong>Verfügbar für neue Positionen</strong> • Open to Work (Stuttgart & Remote)</span>"
+  tagline: "9+ Jahre Erfahrung in Enterprise-Webanwendungen (Aviation DCS/TWT) und KI-Systemen. 8+ Jahre Betriebstreue bei ORS.<br><span class=\"hero-status-badge\"><span class=\"pulse-dot\"></span> <strong>Verfügbar für langfristige Festanstellung</strong> • Open to Work</span>"
   image:
     src: /img/photo.jpg
     alt: Sergei Lediankin
@@ -29,8 +29,8 @@ features:
     details: Node.js, Firebase und LLM-Integration. Gründer des KI-Sprachprojekts lingvochat.com.
   - icon:
       src: /img/work.svg
-    title: Sofort verfügbar für Festanstellung
-    details: Aktiv auf der Suche nach neuen Herausforderungen in Stuttgart & Remote. Gültiger Aufenthaltstitel (uneingeschränkte Arbeitserlaubnis vorhanden), DTZ B1-Zertifikat.
+    title: Verlässlichkeit & 8+ Jahre Betriebstreue
+    details: Über 8 Jahre bei ORS als Entwickler und Sub-Teamleiter (bestätigt durch Arbeitszeugnis mit Bestnote). Hohes Verantwortungsbewusstsein und Fokus auf langfristige Zusammenarbeit.
 ---
 
 <script setup>

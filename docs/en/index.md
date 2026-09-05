@@ -6,7 +6,7 @@ description: "9+ years of experience delivering mission-critical web application
 hero:
   name: "Sergei Lediankin"
   text: "Frontend & Full-Stack Developer (Vue 3 / Node.js)"
-  tagline: "9+ years of experience delivering mission-critical enterprise web apps and AI systems.<br><span class=\"hero-status-badge\"><span class=\"pulse-dot\"></span> <strong>Open to Opportunities</strong> • Full-time in Stuttgart & Remote</span>"
+  tagline: "9+ years delivering enterprise web apps (Aviation DCS/TWT) and AI systems. 8+ years tenure at ORS.<br><span class=\"hero-status-badge\"><span class=\"pulse-dot\"></span> <strong>Open to Long-Term Roles</strong> • Full-time in Stuttgart & Remote</span>"
   image:
     src: /img/photo.jpg
     alt: Sergei Lediankin
@@ -35,7 +35,7 @@ features:
     details: Node.js, Firebase, and LLM orchestration. Founder of the AI language platform lingvochat.com (audio pipeline, SRS logic).
   - icon:
       src: /img/work.svg
-    title: Available for Full-Time Roles
-    details: Actively seeking new career opportunities in Stuttgart & Remote. Unrestricted German work permit (Aufenthaltstitel), DTZ B1 certificate.
+    title: Reliability & 8+ Years Tenure
+    details: Over 8 continuous years at ORS as engineer and sub-team lead. Supported by an exceptional CEO reference letter. Focused on sustainable, long-term impact.
 ---
 

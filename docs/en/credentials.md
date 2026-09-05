@@ -16,6 +16,10 @@ Formal reference letter issued by the CEO of **JSC «Online Reservation System»
 *„Mr. Lediankin consistently demonstrated outstanding technical expertise, strong problem-solving skills, and a high degree of responsibility [...] He fulfilled all assigned tasks with utmost care, initiative, and **always to our fullest satisfaction**.“*
 :::
 
+::: tip 🤝 Evidence of Loyalty & Long-Term Commitment
+A continuous **8+ year tenure** (2017–2025) at the same organization is rare in today's software industry and demonstrates exceptional stability, reliability, and deep product ownership. The official letter of recommendation confirms these lasting qualities with the highest rating.
+:::
+
 📄 **[Download Reference Letter (PDF, 2 pages with original Russian scan)](/docs/recommendation-letter-en-ru.pdf)**
 
 
@@ -23,7 +27,6 @@ Formal reference letter issued by the CEO of **JSC «Online Reservation System»
 
 Official State Higher Education Diploma issued by **Yaroslavl State Technical University (YSTU)**.
 
-- **Academic Degree:** Engineer (5-year full-time university curriculum, 1994–1999 / **M.Sc. / Dipl.-Ing. Equivalent**).
 - **Academic Degree:** Engineer (5-year full-time university curriculum, 1994–1999 / **M.Sc. / Dipl.-Ing. Equivalent / anabin Class A5**).
 - **German anabin Database (KMK / ZAB):** Yaroslavl State Technical University is rated **Status H+** (fully recognized state higher education institution).
 

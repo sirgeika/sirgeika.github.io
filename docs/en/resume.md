@@ -34,7 +34,7 @@ Actively seeking a **full-time permanent role** as a **Senior Frontend Developer
 
 ## Professional Summary
 
-Experienced Software Engineer with **9+ years** specializing in modern web development (**Vue.js**, **Node.js**, **Cloud/Firebase**). Proven track record delivering mission-critical B2B enterprise software for the aviation industry (Departure Control Systems DCS, airline booking terminals TWT) and AI-driven web platforms. Strong hands-on background in client-side performance optimization, code reviews, and coordinating small developer teams (2–5 engineers).
+Experienced Software Engineer with **9+ years** specializing in modern web development (**Vue.js**, **Node.js**, **Cloud/Firebase**). **Over 8 continuous years of tenure** at ORS demonstrate exceptional loyalty, reliability, and long-term commitment — formally attested by the CEO with top marks (*“always to our fullest satisfaction”*) and a very high sense of responsibility. Proven track record delivering mission-critical B2B enterprise software for the aviation industry (Departure Control Systems DCS, airline booking terminals TWT) and AI-driven web platforms. Strong hands-on background in client-side performance optimization, code reviews, and coordinating developer teams (2–5 engineers).
 
 
 ## Technical Skills
@@ -59,7 +59,12 @@ AI-powered language learning platform focusing on contextual audio training and 
 
 ### Senior Frontend Engineer / Sub-Team Lead
 **[LogicEditor](https://logiceditor.com) / [JSC «ORS» (Online Reservation System)](https://ors-aero.ru/en)**  
-*11/2021 – 07/2025*
+*11/2021 – 07/2025* *(Previously Frontend Developer since 03/2017 — 8+ continuous years of tenure)*
+
+::: info 📜 Excerpt from Official Letter of Recommendation (CEO):
+*“Mr. Lediankin consistently distinguished himself through outstanding technical competence, exceptional problem-solving skills, and a very high sense of responsibility [...] He carried out all duties entrusted to him with the greatest diligence, initiative, and **always to our fullest satisfaction**.”*  
+📄 **[View Full Letter of Recommendation (PDF)](/docs/recommendation-letter-en-ru.pdf)**
+:::
 
 Mission-critical enterprise software for airlines, airports, and travel agencies.
 - Coordinated a frontend engineering team of 2–5 developers: backlog breakdown, technical estimation, code reviews, and release readiness.

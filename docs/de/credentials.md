@@ -16,6 +16,10 @@ Offizielles Referenzschreiben des Generaldirektors der **AO «Online Reservation
 *„Herr Lediankin zeichnete sich jederzeit durch herausragende technische Fachkompetenz, ausgeprägte Problemlösungskompetenz und ein sehr hohes Maß an Verantwortungsbewusstsein aus [...] Er erledigte alle ihm übertragenen Aufgaben stets mit größter Sorgfalt, Eigeninitiative und **stets zu unserer vollsten Zufriedenheit**.“*
 :::
 
+::: tip 🤝 Beleg für Loyalität und langfristige Verlässlichkeit
+Eine über **8-jährige kontinuierliche Betriebszugehörigkeit** (2017–2025) im selben Unternehmen steht im heutigen IT-Markt für außergewöhnliche Beständigkeit, tiefes Engagement und Pflichtbewusstsein. Das offizielle Zeugnis der Geschäftsführung belegt diese Qualitäten schwarz auf weiß.
+:::
+
 📄 **[Referenzschreiben herunterladen (PDF, 2 Seiten mit russischem Original)](/docs/recommendation-letter-de-ru.pdf)**
 
 
@@ -24,7 +28,6 @@ Offizielles Referenzschreiben des Generaldirektors der **AO «Online Reservation
 Staatliches Diplom über die Hochschulbildung der **Staatlichen Technischen Universität Jaroslawl (YSTU)**.
 
 - **Akademischer Grad:** Ingenieur (Abschluss nach regulärem 5-jährigem Vollzeitstudium, 1994–1999).
-- **Einstufung in Deutschland:** Dem deutschen universitären **Diplom-Ingenieur (Dipl.-Ing. Univ. / Master-Ebene)** gleichgestellt.
 - **Einstufung in Deutschland:** Dem deutschen universitären **Diplom-Ingenieur (Dipl.-Ing. Univ. / Master-Ebene / anabin-Klasse A5)** gleichgestellt.
 - **anabin-Datenbank (KMK / ZAB):** Die Institution besitzt den **Status H+** (vollwertig anerkannte staatliche Universität in Deutschland).
 
